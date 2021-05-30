@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "question": "What is the name of the capital of India?",
+        "options": [
+            {
+                "id": 1,
+                "value": "Kolkata"
+            },
+            {
+                "id": 2,
+                "value": "Chennai"
+            },
+            {
+                "id": 3,
+                "value": "Delhi"
+            },
+            {
+                "id": 4,
+                "value": "New Delhi"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Who is the CEO of Zerodha?",
+        "options": [
+            {
+                "id": 1,
+                "value": "Nithin Kamath"
+            },
+            {
+                "id": 2,
+                "value": "Nikhil Kamath"
+            },
+            {
+                "id": 3,
+                "value": "Manoj Gupta"
+            },
+            {
+                "id": 4,
+                "value": "Rahul Roy"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What’s the capital of Canada?",
+        "options": [
+            {
+                "id": 1,
+                "value": "New York"
+            },
+            {
+                "id": 2,
+                "value": "Ottawa"
+            },
+            {
+                "id": 3,
+                "value": "Torrento"
+            },
+            {
+                "id": 4,
+                "value": "Mumbai"
+            }
+        ]
+    }
+]
